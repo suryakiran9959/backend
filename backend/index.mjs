@@ -59,8 +59,6 @@ app.post("/adduser", (req, res) => {
 
 
 
-
-
 app.listen(port, () => {
   console.log(`server running from port ${port}`);
 });
